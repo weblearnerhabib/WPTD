@@ -28,3 +28,13 @@ body{
     text-shadow: 0px -1px 0px #888;
   }
   
+
+  #classCount{    
+    color: #ffffff;
+    font-size: 22px;
+    padding: 0px 10px;
+    font-weight: 700;
+    background: #ff0101;
+    margin-left: 10px;
+    border-radius: 5px;
+  }
